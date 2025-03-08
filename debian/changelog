@@ -1,3 +1,9 @@
+react (1.2.1-1-deepin2) unstable; urgency=medium
+
+  * Rebuild
+
+ -- lhdjply <lhdjply@126.com>  Sat, 8 Mar 2025 13:20:35 +0800
+
 react (1.2.1-1-deepin1) unstable; urgency=medium
 
   * Rebuild
